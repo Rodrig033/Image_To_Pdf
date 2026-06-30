@@ -183,7 +183,7 @@ git push origin mi-nueva-funcionalidad
 
 ---
 
-# 👨‍💻 Autor
+# 🧑🏽‍🚀 Autor
 
 **Rodrigo Farid López Córdoba**
 
